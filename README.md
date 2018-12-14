@@ -22,3 +22,9 @@ Star indicator (step percentage):
 - 60-75: 2 stars filled
 - 76-99: 2.5 stars filled
 - 100: Hoshimitsu!
+
+## Update
+
+v3.0: Replace per-hour hexagon spots with per-second hexagon particles mapping animation.
+
+v2.0: New power stripe looping the day of the week. You don't have to squeeze yout eyes to look at that barely readable text now.
